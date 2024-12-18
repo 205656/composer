@@ -1,0 +1,18 @@
+{
+    "name": "example/test-tool",
+    "description": "测试包",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Example\\TestTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "李荣",
+            "email": "2433592077@qq.com"
+        }
+    ],
+    "require": {}
+}
