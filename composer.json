@@ -14,5 +14,10 @@
             "email": "2433592077@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
 }
